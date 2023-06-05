@@ -57,7 +57,7 @@
  *
  * @return xcb_keycode_t
  */
-#define xcb_keysym_index_to_keycode(I,P,M) (I/P)+M
+#define xcb_keysym_index_to_keycode(I,M,P) (I/P)+M
 
 /**
  * @brief Returns the first keysym found that corresponds to the specified keycode.
