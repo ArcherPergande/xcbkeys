@@ -10,6 +10,7 @@ xcbkeys is under the MIT license, more information can be found in xcbkeys.h.
 
 How to use xcbkeys:
 xcbkeys can be easily stored in your installation of xcb or in your project directory and #included into your source code.
+All functions are compatible with X11/keysym.h.
 
 Contact Information:
 For any questions or feedback my email is archerpergande@gmail.com.
