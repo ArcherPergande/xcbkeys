@@ -1,4 +1,4 @@
-***About***
+# About
 
 What is xcbkeys:
 xcbkeys is a small library written on top of xcb that attempts to solve the problem of not having a standard and simple way
@@ -16,7 +16,7 @@ Contact Information:
 For any questions or feedback my email is archerpergande@gmail.com.
 
 
-***Documentation***
+# Documentation
 
 xcb_get_keysym_map:
 This macro is functionally equivalent to the function xcb_get_keyboard_mapping_keysyms(). Because the function is small and does one 
